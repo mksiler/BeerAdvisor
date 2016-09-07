@@ -15,7 +15,7 @@ public class FindBeerActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_find_beer);
     }
-    
+
     //call when button click
     public void onClickFindBeer(View view) {
         //get ref to textview
